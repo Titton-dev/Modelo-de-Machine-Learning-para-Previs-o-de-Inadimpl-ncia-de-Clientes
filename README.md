@@ -63,3 +63,7 @@ O modelo apresentou boa capacidade de generalização, sendo capaz de prever o r
 ## 👨‍💻 Autor
 **Eduardo Titton**  
 Projeto desenvolvido no curso jornada python e replicado para fins educacionais e construção de portfólio em Ciência de Dados e Machine Learning.
+
+## 📚 Referência de Estudo
+
+Este projeto foi desenvolvido com base em um curso gratuito da plataforma Jornada Python, com adaptações e personalizações realizadas durante o aprendizado.
